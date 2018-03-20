@@ -5,3 +5,4 @@ Short tutorials covering frequently asked python quests. Want to request somethi
 
 ### [What does if __name__ == "__main__" do?](https://youtu.be/5edEA2YYjLk)  
 ### [The Python Ternary Conditional Expression](https://youtu.be/YgdxZnz4Xps)  
+### [What is the difference between "==" and "is" in Python?](https://youtu.be/lMgcfPHLZ9I)  
