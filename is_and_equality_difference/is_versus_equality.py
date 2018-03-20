@@ -2,6 +2,7 @@
 HighFiveCode - https://highfivecode.com/
 HFC YouTube Channel: https://www.youtube.com/channel/UCOmiui0ghT5OoVdD1wi4mFA
 Send requests to: https://highfivecode.com/suggestions/
+Python3 Expressions Docs: https://docs.python.org/3.6/reference/expressions.html
 
 a == b evaluates if the VALUES of a and b are the same (value equality)
 a is b evualuates if the OBJECTS a and b are the same (reference equality)
